@@ -9,7 +9,6 @@ Task Manager is a simple yet powerful task management application built with Rea
 - [Installation](#installation)
 - [Running the Application](#running-the-application)
 - [Contributing](#contributing)
-- [License](#license)
 
 ## Features
 
@@ -60,9 +59,5 @@ Then, open your web browser and navigate to `http://localhost:5000`.
 ## Contributing
 
 Contributions are always welcome! Please feel free to submit a pull request. For major changes, kindly open an issue first to discuss what you would like to change.
-
-## License
-
-This project is licensed under the [MIT License](https://choosealicense.com/licenses/mit/).
 
 
